@@ -20,7 +20,7 @@ Demo-project showing how to use roles-permissions (students, admins, super admin
 
 ## How to use
 
-- Clone the repository with __git clone__
+- download the zipfile from _github_
 - Copy __.env.example__ file to __.env__ and edit database credentials there
 - Run __composer install__
 - Run __php artisan key:generate__
